@@ -8,6 +8,6 @@ by 논문_3 : Beyond Affinity Propagation Message Passing Algorithms for Cluster
 
 ### 2023/05/22
 
-auction 
+auction - 할당 문제 구현
 
 by 논문 4 : Statistical mechanics of budget-constrained auctions

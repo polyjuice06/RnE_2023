@@ -11,3 +11,9 @@ by 논문_3 : Beyond Affinity Propagation Message Passing Algorithms for Cluster
 auction - 할당 문제 구현
 
 by 논문 4 : Statistical mechanics of budget-constrained auctions
+
+### 2023/05/23
+
+date matching 문제 해결 알고리즘 구현
+
+by 자료 5 : introduction to graphical models and distributed inference

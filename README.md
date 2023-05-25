@@ -17,3 +17,7 @@ by 논문 4 : Statistical mechanics of budget-constrained auctions
 date matching 문제 해결 알고리즘 구현
 
 by 자료 5 : introduction to graphical models and distributed inference
+
+### 2023/05/24 ~ 2023/05/25
+
+netlogo 프로그램 작성법 학습 및 프로그램 개선 - Wolf sheep simple 모델을 기반으로

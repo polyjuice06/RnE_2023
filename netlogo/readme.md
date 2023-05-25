@@ -1,5 +1,7 @@
 ### NetLogo 개발 목록 정리
 
+#### 2023/05/25
+
 1. rps_ing - 남현석 
 
 2. bomb version- 임지윤

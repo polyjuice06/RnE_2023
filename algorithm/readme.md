@@ -10,3 +10,5 @@
 1. date matching
 
 2. auction
+
+3. min-sum method
